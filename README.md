@@ -21,13 +21,13 @@ This project aims to recognize hand gestures representing ASL letters using imag
 📈 Sample Output
 
 ### 🔹 Prediction Example
-![Prediction](prediction)
+![Prediction](prediction.png)
 
 ### 🔹 Accuracy Curve
-![Accuracy](accuracy)
+![Accuracy](accuracy.png)
 
 ### 🔹 Loss Curve
-![Loss](loss)
+![Loss](loss.png)
 
 🛠️ Tech Stack
 
