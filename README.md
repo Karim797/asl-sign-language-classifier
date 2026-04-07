@@ -1,4 +1,4 @@
-🤟 ASL Sign Language Classification (CNN)
+خ🤟 ASL Sign Language Classification (CNN)
 
 A Deep Learning project that uses a Convolutional Neural Network (CNN) to classify American Sign Language (ASL) hand gestures.
 
@@ -35,7 +35,6 @@ This project aims to recognize hand gestures representing ASL letters using imag
 - Model generalizes well on unseen data
 
 🛠️ Tech Stack
-
 - Python
 - TensorFlow / Keras
 - NumPy
@@ -45,6 +44,6 @@ This project aims to recognize hand gestures representing ASL letters using imag
 
 Improving model performance and deploying using Streamlit
 
-🔗 LinkedIn Post
 
-https://www.linkedin.com/in/karim-deheya-776717377?utm_source=share_via&utm_content=profile&utm_medium=member_android
+🔗 LinkedIn Post:
+[View Project Post](https://www.linkedin.com/posts/karim-deheya-...)
