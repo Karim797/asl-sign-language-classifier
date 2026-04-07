@@ -15,19 +15,24 @@ This project aims to recognize hand gestures representing ASL letters using imag
 
 📊 Results
 
-- The model achieved strong accuracy on validation data
+- Achieved high validation accuracy (~99%)
 - Successfully classified hand gestures from unseen images
 
-📈 Sample Output
+📈 Model Training Performance
 
 ### 🔹 Prediction Example
 ![Prediction](prediction.png)
 
-### 🔹 Accuracy Curve
+### 📊 Accuracy Curve (Train vs Validation)
 ![Accuracy](accuracy.png)
 
-### 🔹 Loss Curve
+### 📉 Loss Curve (Train vs Validation)
 ![Loss](loss.png)
+
+💡 Key Insights:
+- Training and validation accuracy are closely aligned → no overfitting
+- Loss decreases smoothly → stable training process
+- Model generalizes well on unseen data
 
 🛠️ Tech Stack
 
