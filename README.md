@@ -2,6 +2,8 @@
 
 A Deep Learning project that uses a Convolutional Neural Network (CNN) to classify American Sign Language (ASL) hand gestures.
 
+The training notebook is not yet included in this repository; results below are shown from the training curves.
+
 📌 Project Overview
 
 This project aims to recognize hand gestures representing ASL letters using image classification techniques.
@@ -30,7 +32,7 @@ This project aims to recognize hand gestures representing ASL letters using imag
 ![Loss](loss.png)
 
 💡 Key Insights:
-- Training and validation accuracy are closely aligned → no overfitting
+- Train and validation curves stay closely aligned, suggesting limited overfitting.
 - Loss decreases smoothly → stable training process
 - Model generalizes well on unseen data
 
